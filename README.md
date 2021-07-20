@@ -15,3 +15,7 @@ How to deploy the model.
 ## How to Contribute
 
 To contribute make a push request.
+
+### Copyright
+
+2014 Git.Training
